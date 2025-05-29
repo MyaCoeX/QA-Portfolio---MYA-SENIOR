@@ -1,1 +1,141 @@
-Website: https://seigur.co.uk/services/ 
+Test Plan for Seigur.co.uk/services/ 
+
+Project Name: Seigur.co.uk Services Page Quality Assurance 
+
+Test Manager: [Your Name/Assigned Test Manager] 
+
+Test Objectives: 
+
+To validate the complete functionality of all interactive elements on the https://seigur.co.uk/services/ page, including links, buttons, and any forms. 
+
+To ensure the accuracy, consistency, and relevance of all content (text, images, media) displayed on the services page. 
+
+To confirm the website's responsiveness and visual integrity across a diverse range of devices (desktop, tablet, mobile) and web browsers. 
+
+To rigorously assess the performance of the services page, focusing on page load times, perceived speed, and overall responsiveness to user interactions. 
+
+To identify, document, and report any defects, usability issues, or performance bottlenecks that could negatively impact the user experience or the website's professional image. 
+
+Scope: 
+
+In Scope:  
+
+All visible elements and functionalities present on the https://seigur.co.uk/services/ page, including headings, paragraphs, lists, images, videos, and call-to-action buttons. 
+
+Internal navigation: Verifying that all links originating from the services page correctly direct users to other relevant pages within the seigur.co.uk domain. 
+
+Content verification: Reviewing all textual content for grammatical correctness, spelling errors, factual accuracy (where applicable), and adherence to brand messaging. Image and video assets will be checked for proper display, resolution, and relevance. 
+
+Form functionality: If any contact or inquiry forms are present on the services page, their submission process, field validations, and success/error messages will be tested. 
+
+Cross-browser compatibility: Testing the page's rendering and functionality on major web browsers (e.g., Google Chrome, Mozilla Firefox, Microsoft Edge, Apple Safari) across their latest stable versions. 
+
+Responsive design: Evaluating how the page adapts and maintains its usability and aesthetic appeal on various screen sizes and orientations (desktop, laptop, tablet, smartphone). 
+
+Performance metrics: Measuring key performance indicators  
+
+Out of Scope:  
+
+Backend system logic not directly exposed or testable via the services page's user interface. 
+
+Comprehensive security testing (e.g., penetration testing, vulnerability assessments beyond basic SSL certificate validation). 
+
+Testing of external websites linked from the services page that are not part of the seigur.co.uk domain. 
+
+Stress testing or load testing beyond typical user traffic simulations, unless specifically defined as a separate, dedicated performance testing effort. 
+
+Testing of other pages or sections of the seigur.co.uk website not directly related to the /services/ path. 
+
+Test Strategy: 
+
+Testing Types:  
+
+Functional Testing: Executing test cases to confirm that every interactive element (links, buttons, forms, navigation menus) on the services page performs its intended action correctly. 
+
+Content Verification: A thorough manual review of all text, images, and embedded media to ensure accuracy, consistency, and quality. This includes proofreading for typos, grammatical errors, and factual inaccuracies. 
+
+Usability Testing: Assessing the user-friendliness, intuitiveness, and overall ease of interaction with the services page. This will involve evaluating navigation paths, clarity of information, and visual design. 
+
+Compatibility Testing: Testing the services page across different web browsers and operating systems to ensure consistent rendering and functionality. 
+
+Responsiveness Testing: Verifying the page's layout and content adaptation on various screen resolutions and device types (desktop, tablet, mobile) to ensure an optimal viewing experience. 
+
+Performance Testing: Utilizing specialized tools to measure page load speed, identify rendering bottlenecks, and assess the responsiveness of interactive elements. This will focus on front-end performance from the user's perspective. 
+
+Test Approach: A hybrid approach combining manual and automated testing. Manual testing will be prioritized for exploratory testing, content verification, and usability assessments due to the subjective nature of these areas. Automated tools will be primarily used for collecting performance metrics and for basic regression checks of critical functionalities if applicable. 
+
+Tools:  
+
+Browser Developer Tools: (e.g., Chrome DevTools, Firefox Developer Tools) for inspecting elements, debugging JavaScript, monitoring network activity, and analyzing performance metrics (Lighthouse audits). 
+
+Google PageSpeed Insights: For detailed performance analysis, identifying core web vitals, and receiving actionable recommendations. 
+
+GTmetrix / WebPageTest: For more in-depth performance analysis, waterfall charts, and visualizing load sequences. 
+
+Jira : For test case management, defect tracking, and overall project progress monitoring. 
+
+Spreadsheets : For documenting detailed test cases and tracking manual test execution. 
+
+Schedule: 
+
+Start Date: [e.g., June 10, 2025] 
+
+End Date: [e.g., June 17, 2025] 
+
+Milestones:  
+
+Test Plan Review and Approval:  June 10, 2025 
+
+Test Environment Setup & Tool Configuration: June 10, 2025 
+
+Detailed Test Case Creation/Refinement:  June 11, 2025 
+
+Initial Test Cycle Execution (Functional, Content, Usability, Compatibility, Responsiveness): June 12 - June 14, 2025 
+
+Dedicated Performance Testing Execution & Analysis: June 15, 2025 
+
+Defect Logging, Reporting, and Retesting: June 15 - June 16, 2025 
+
+Final Test Summary Report Generation & Review: June 17, 2025 
+
+Resources: 
+
+Testers: ME :) 
+
+Tools: Access to modern web browsers, mobile devices , Google PageSpeed Insights, GTmetrix/WebPageTest, and Jira, 
+
+Infrastructure: Stable internet connection for accessing the live website and online testing tools. 
+
+Risks: 
+
+Lack of Actual Requirements: The most significant risk to this testing effort is the absence of formal, documented functional and non-functional requirements for the seigur.co.uk/services/ page. This means that:  
+
+Ambiguity in Expected Behavior: Without clear specifications, the definition of "correct" functionality or "acceptable" performance is subjective, leading to potential misinterpretations. 
+
+Incomplete Test Coverage: It becomes challenging to ensure comprehensive test coverage, as testers may not be aware of all intended features or edge cases. 
+
+Difficulty in Defect Prioritization: Without requirements, it's harder to objectively assess the severity and priority of identified defects based on business impact. 
+
+Scope Creep/Misalignment: The scope of testing might expand or contract based on assumptions, potentially leading to wasted effort or missed critical issues. 
+
+Dynamic Website Content: Frequent or unannounced changes to the services page's content, layout, or underlying code during the testing cycle could invalidate existing test cases and require significant re-work, potentially delaying the schedule. 
+
+Unstable Test Environment: Unforeseen issues with the website's hosting server or network infrastructure could impede testing progress and yield inaccurate performance results. 
+
+Limited Device/Browser Access: Insufficient access to a diverse range of physical mobile devices and older browser versions might lead to compatibility or responsiveness issues being missed in real-world user scenarios. 
+
+Performance Test Variability: Performance metrics can sometimes be inconsistent due to network fluctuations or server load, making it challenging to pinpoint exact causes of issues or confirm fixes. 
+
+Communication Gaps: Ineffective communication channels or delays in feedback between testers and developers could prolong the defect resolution cycle. 
+
+Deliverables: 
+
+Test Plan Document: This comprehensive document outlining the strategy, scope, and approach for testing the services page. 
+
+Detailed Test Cases: A structured document (e.g., spreadsheet) containing individual test steps, preconditions, input data, expected results, and actual results for each test scenario. 
+
+Defect Log / Bug Report: A centralized record of all identified defects, including unique ID, title, description, steps to reproduce, actual results, expected results, severity, priority, and status. 
+
+Test Summary Report: A high-level overview of the testing activities, including test execution status (passed/failed), total number of defects found, resolved defects, open defects, test coverage metrics, and an overall assessment of the services page's quality. 
+
+Performance Test Report: A dedicated report summarizing the key performance metrics (e.g., load times, Core Web Vitals scores), identified performance bottlenecks, and actionable recommendations for optimization. 
