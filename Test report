@@ -1,0 +1,73 @@
+ 
+
+Test Report: Seigur  
+
+Date: 3/6/2025 
+
+Tested By: Mya Senior 
+
+Test Cycle: Phase 1 
+
+ 
+
+1. Executive Summary 
+
+This phase of testing has been of the navigation system of the website and ensuring each page is correctly linked and opens without issue. We also checked that each page was formatted correctly and had valid content. 
+
+Overall Status: Minor Issues 
+
+Recommendation: requires Further Testing 
+
+ 
+
+2. Test Coverage 
+
+Scope Tested: Navigation 
+
+Test Cases Executed: 6 
+
+Test Cases Passed: 4 
+
+Test Cases Failed: 2 
+
+Test Cases Blocked: 0 
+
+ 
+
+3. Defect Summary 
+
+Total Defects Found: 2 
+
+Open Defects: 2 
+
+Critical:  
+
+High:  
+
+Medium: 1 
+
+Low: 1 
+
+Closed Defects: 0 
+
+Top 3 High-Impact Defects:  0  
+
+ 
+
+4. Key Findings & Observations 
+
+Lack of consistency with some design elements  
+
+Lack of actual requirements limits testing abilities 
+
+ 
+
+5. Next Steps 
+
+Retest bugs  
+
+Go on to testing phase 2 
+
+ 
+
+ 
