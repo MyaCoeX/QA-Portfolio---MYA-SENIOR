@@ -1,18 +1,20 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-I'm Mya a trained web developer and experinced Quality assurance engineer from Londnon I'm currently based in the Caribbean 
+I'm Mya a trained Web developer and experinced Quality assurance engineer from London :flag_gb: I'm currently based in the Caribbean :island: 
 
 ###
 
 
 
 
-<h2 align="left">About me</h2>
+<h2 align="left"> :bust_in_silhouette: About me</h2>
 Hey, I'm Mya I'm starting a tech agency and I want to start showing what i can do. I have been interested in I>T all my life, I've done a frontend web develeopemnt course, trained as a Automation tetser, worked as a quality assurcance engeineer. I have so many more skills to foster and this is the place I'm planning to showcase them. Have a read and lets connect.
 
 
 ###
 <h1 align="left">Contact Me ✨</h1>
-myasenior13@outlook.com <br>
+
+myasenior13@outlook.com 
+<br>
 
 CoeXLtd@outlook.com
 
@@ -25,9 +27,6 @@ CoeXLtd@outlook.com
 - Tools: JIRA, TestRail, Postman, Selenium, Azure, Git <br>
 - Languages: Java, Python, JavaScript, SQL, HTML, CSS  <br>
 - Strengths: Collaborative Problem-Solving, Remote Teamwork, Customer-Centric Quality Assurance  <br>
-
-###
-<h2 align="left">I code with</h2>
 
 ###
 
@@ -56,7 +55,7 @@ CoeXLtd@outlook.com
 
 
 
-<h1 align="left">Professional Experience</h1>
+<h1 align="left"> :woman_office_worker: Professional Experience</h1>
 
 Ten10, London  
 Quality Assurance Analyst | 2020 – 2024  
@@ -73,13 +72,13 @@ Quality Assurance Analyst | 2020 – 2024
 
 Technologies Used: JIRA, TestRail, Selenium, Postman, Git, Java, Python, SQL  
 ________________________________________________________________________________________________________
-<h1 align="left">Education</h1>
+<h1 align="left"> :book: Education</h1>
 Code Institute, UK
  Full-Stack Web Development (2019 – 2021)
 Hillel Academy, Jamaica
  International Baccalaureate Diploma (2016 – 2018)
 
-<h1 align="left">Professional development</h1>
+<h1 align="left"> :bar_chart: Professional development</h1>
 - Training in Selenium Automation Testing (2020)  
 - Training in API Testing with Postman (2022)  
 - Certificate for ‘SQL for Testers’(2024)
