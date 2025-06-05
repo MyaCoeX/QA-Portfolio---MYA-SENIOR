@@ -66,13 +66,13 @@ Hey, I'm Mya I'm starting a tech agency and I want to start showing what i can d
 # QA-Portfolio---MYA-SENIOR
 
 
-
+<h1 align="left">Contact Me</h1>
 myasenior13@outlook.com
 CoeXLtd@outlook.com
-Skills  
 
 
-Professional Experience  
+<h1 align="left">Professional Experience</h1>
+
 Ten10, London  
 Quality Assurance Analyst | 2020 – 2024  
 
@@ -88,23 +88,16 @@ Quality Assurance Analyst | 2020 – 2024
 
 Technologies Used: JIRA, TestRail, Selenium, Postman, Git, Java, Python, SQL  
 ________________________________________________________________________________________________________
-Education
+<h1 align="left">Education</h1>
 Code Institute, UK
  Full-Stack Web Development (2019 – 2021)
 Hillel Academy, Jamaica
  International Baccalaureate Diploma (2016 – 2018)
 
- Professional Development  
+<h1 align="left">Professional development</h1>
 - Training in Selenium Automation Testing (2020)  
 - Training in API Testing with Postman (2022)  
 - Certificate for ‘SQL for Testers’(2024)
-- 
-
-
-
-
-
-
 - Certificate AutomatePro- Autotest foundation level (2024)
 - Enrolled  Introduction to Artificial Intelligence in Software Testing (in progress)
 - ISTQB booked (in progress)
