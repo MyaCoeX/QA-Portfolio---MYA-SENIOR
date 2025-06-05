@@ -1,6 +1,5 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-I'm Mya a trained Web developer and experinced Quality assurance engineer from London :flag_gb: I'm currently based in the Caribbean :island::dessert_island:
-
+I'm Mya a trained Web developer and experinced Quality assurance engineer from London I'm currently based in the Caribbean 
 ###
 
 
