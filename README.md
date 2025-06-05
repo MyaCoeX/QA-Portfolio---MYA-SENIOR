@@ -11,11 +11,12 @@ Hey, I'm Mya I'm starting a tech agency and I want to start showing what i can d
 
 
 ###
-<h1 align="left">Contact Me</h1>
-myasenior13@outlook.com
+<h1 align="left">Contact Me ✨</h1>
+myasenior13@outlook.com <br>
+
 CoeXLtd@outlook.com
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2020 <br>📚 I'm currently learning AI in software testing <br>🎯 Goals: Develop websites for new clients <br>🎲 Fun fact: if you see a spider in your house you are probaly existing outside your normal rotuine. Also I;m relearning how to skateboard :joy: </p>
 
 ###
 
