@@ -21,33 +21,17 @@ CoeXLtd@outlook.com
 ###
 
 <h1 align="left">SKILLS</h1>
-- Testing Expertise: Manual & Automation, Regression, Security, UAT, Performance Testing, API Testing, Cross-browser Testing, Web & E-commerce Testing  
-- Tools: JIRA, TestRail, Postman, Selenium, Azure, Git 
-- Languages: Java, Python, JavaScript, SQL, HTML, CSS  
-- Strengths: Collaborative Problem-Solving, Remote Teamwork, Customer-Centric Quality Assurance  
+- Testing Expertise: Manual & Automation, Regression, Security, UAT, Performance Testing, API Testing, Cross-browser Testing, Web & E-commerce Testing  <br>
+- Tools: JIRA, TestRail, Postman, Selenium, Azure, Git <br>
+- Languages: Java, Python, JavaScript, SQL, HTML, CSS  <br>
+- Strengths: Collaborative Problem-Solving, Remote Teamwork, Customer-Centric Quality Assurance  <br>
 
 ###
 <h2 align="left">I code with</h2>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
