@@ -9,7 +9,11 @@ I'm Mya a trained web developer and experinced Quality assurance engineer from L
 <h2 align="left">About me</h2>
 Hey, I'm Mya I'm starting a tech agency and I want to start showing what i can do. I have been interested in I>T all my life, I've done a frontend web develeopemnt course, trained as a Automation tetser, worked as a quality assurcance engeineer. I have so many more skills to foster and this is the place I'm planning to showcase them. Have a read and lets connect.
 
+
 ###
+<h1 align="left">Contact Me</h1>
+myasenior13@outlook.com
+CoeXLtd@outlook.com
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
@@ -63,12 +67,8 @@ Hey, I'm Mya I'm starting a tech agency and I want to start showing what i can d
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=myacoex&show_icons=true&locale=en&layout=compact" alt="myacoex" /></p>
 
 ###
-# QA-Portfolio---MYA-SENIOR
 
 
-<h1 align="left">Contact Me</h1>
-myasenior13@outlook.com
-CoeXLtd@outlook.com
 
 
 <h1 align="left">Professional Experience</h1>
