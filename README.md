@@ -74,17 +74,17 @@ Technologies Used: JIRA, TestRail, Selenium, Postman, Git, Java, Python, SQL
 ________________________________________________________________________________________________________
 <h1 align="left"> :book: Education</h1>
 Code Institute, UK
- Full-Stack Web Development (2019 – 2021)
+ Full-Stack Web Development (2019 – 2021)<br>
 Hillel Academy, Jamaica
  International Baccalaureate Diploma (2016 – 2018)
 
 <h1 align="left"> :bar_chart: Professional development</h1>
-- Training in Selenium Automation Testing (2020)  
-- Training in API Testing with Postman (2022)  
-- Certificate for ‘SQL for Testers’(2024)
-- Certificate AutomatePro- Autotest foundation level (2024)
-- Enrolled  Introduction to Artificial Intelligence in Software Testing (in progress)
-- ISTQB booked (in progress)
+- Training in Selenium Automation Testing (2020)  <br>
+- Training in API Testing with Postman (2022)  <br>
+- Certificate for ‘SQL for Testers’(2024)<br>
+- Certificate AutomatePro- Autotest foundation level (2024) <br>
+- Enrolled  Introduction to Artificial Intelligence in Software Testing (in progress)<br>
+- ISTQB booked (in progress)<br>
 Additional Skills  
-- Proficient in asynchronous communication and time management within remote-first environments.  
-- Experienced in adopting and promoting customer-centric approaches to QA and software testing.  
+- Proficient in asynchronous communication and time management within remote-first environments.  <br>
+- Experienced in adopting and promoting customer-centric approaches to QA and software testing. <br> 
