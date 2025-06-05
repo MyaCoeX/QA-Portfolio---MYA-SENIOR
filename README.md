@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-
+I'm Mya 
 ###
 
 <p align="left">My name is ... and I'm a ..., from ....</p>
@@ -7,6 +7,7 @@
 ###
 
 <h2 align="left">About me</h2>
+Hey, I'm Mya I'm starting a tech agency and I want to start showing what i can do. I have been interested in I>T all my life, I've done a frontend web develeopemnt course, trained as a Automation tetser, worked as a quality assurcance engeineer. I have so many more skills to foster and this is the place I'm planning to showcase them. Have a read and lets connect.
 
 ###
 
@@ -14,6 +15,13 @@
 
 ###
 
+<h1 align="left">SKILLS</h1>
+- Testing Expertise: Manual & Automation, Regression, Security, UAT, Performance Testing, API Testing, Cross-browser Testing, Web & E-commerce Testing  
+- Tools: JIRA, TestRail, Postman, Selenium, Azure, Git 
+- Languages: Java, Python, JavaScript, SQL, HTML, CSS  
+- Strengths: Collaborative Problem-Solving, Remote Teamwork, Customer-Centric Quality Assurance  
+
+###
 <h2 align="left">I code with</h2>
 
 ###
@@ -40,14 +48,11 @@
 # QA-Portfolio---MYA-SENIOR
 
 
-Hey, I'm Mya I'm starting a tech agency and I want to start showing what i can do. I have been interested in I>T all my life, I've done a frontend web develeopemnt course, trained as a Automation tetser, worked as a quality assurcance engeineer. I have so many more skills to foster and this is the place I'm planning to showcase them. Have a read and lets connect.
+
 myasenior13@outlook.com
 CoeXLtd@outlook.com
 Skills  
-- Testing Expertise: Manual & Automation, Regression, Security, UAT, Performance Testing, API Testing, Cross-browser Testing, Web & E-commerce Testing  
-- Tools: JIRA, TestRail, Postman, Selenium, Azure, Git 
-- Languages: Java, Python, JavaScript, SQL, HTML, CSS  
-- Strengths: Collaborative Problem-Solving, Remote Teamwork, Customer-Centric Quality Assurance  
+
 
 Professional Experience  
 Ten10, London  
