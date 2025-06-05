@@ -19,7 +19,7 @@ CoeXLtd@outlook.com
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="www.linkedin.com/in/mya-senior-a95976150" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/coexltd" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="[https://www.behance.net/coex ltd](https://www.behance.net/coexltd)" style="display: inline-block;"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff" alt="behance" /></a></p>
+<a target="_blank" href="https://www.behance.net/coexltd" style="display: inline-block;"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff" alt="behance" /></a></p>
 
 <p align="left">✨ Creating bugs since 2020 <br>📚 I'm currently learning AI in software testing <br>🎯 Goals: Develop websites for new clients <br>🎲 Fun fact: if you see a spider in your house you are probaly existing outside your normal rotuine. Also I;m relearning how to skateboard :joy: </p>
 
