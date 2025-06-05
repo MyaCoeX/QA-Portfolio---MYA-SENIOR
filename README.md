@@ -1,10 +1,10 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-I'm Mya 
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
+I'm Mya a trained web developer and experinced Quality assurance engineer from Londnon I'm currently based in the Caribbean 
 
 ###
+
+
+
 
 <h2 align="left">About me</h2>
 Hey, I'm Mya I'm starting a tech agency and I want to start showing what i can do. I have been interested in I>T all my life, I've done a frontend web develeopemnt course, trained as a Automation tetser, worked as a quality assurcance engeineer. I have so many more skills to foster and this is the place I'm planning to showcase them. Have a read and lets connect.
