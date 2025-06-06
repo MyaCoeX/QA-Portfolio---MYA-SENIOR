@@ -1,5 +1,5 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-I'm Mya a trained Web developer and experinced Quality assurance engineer from London I'm currently based in the Caribbean 
+<h1 align="left">Hey 👋</h1>
+I'm Mya a trained Web developer and experinced Quality assurance engineer from London I'm currently based in the Caribbean and have a company called Coex LTD where we bring your ideas ALIVE!
 
 ###
 
@@ -22,7 +22,7 @@ CoeXLtd@outlook.com
 <a target="_blank" href="https://www.instagram.com/coexltd" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.behance.net/coexltd" style="display: inline-block;"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff" alt="behance" /></a></p>
 
-<p align="left">✨ Creating bugs since 2020 <br>📚 I'm currently learning AI in software testing <br>🎯 Goals: Develop websites for new clients <br>🎲 Fun fact: if you see a spider in your house you are probaly existing outside your normal rotuine. Also I;m relearning how to skateboard :joy: </p>
+<p align="left">✨ Cresting bugs reports since 2020 <br>📚 I'm currently learning AI in software testing <br>🎯 Goals: Develop websites for new clients <br>🎲 Fun fact: if you see a spider in your house you are probaly existing outside your normal rotuine. Also I;m relearning how to skateboard :joy: </p>
 
 ###
 
