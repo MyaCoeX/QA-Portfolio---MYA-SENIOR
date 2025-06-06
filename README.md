@@ -1,12 +1,13 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 I'm Mya a trained Web developer and experinced Quality assurance engineer from London I'm currently based in the Caribbean 
+
 ###
 
 
 
 
 <h2 align="left"> :bust_in_silhouette: About me</h2>
-Hey, I'm Mya I'm starting a tech agency and I want to start showing what i can do. I have been interested in I>T all my life, I've done a frontend web develeopemnt course, trained as a Automation tester, worked as a quality assurcance engeineer. I have so many more skills to foster and this is the place I'm planning to showcase them. Have a read and lets connect.
+Hey, I'm Mya I have a tech agency and I want to start show what I can do. I have been interested in IT all my life, I've done a frontend web develeopemnt course, trained as a Automation tester, worked as a quality assurcance engeineer. I have so many more skills to foster and this is the place I'm planning to showcase them. Have a read and lets connect!
 
 
 ###
