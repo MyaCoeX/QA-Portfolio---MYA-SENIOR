@@ -1,5 +1,5 @@
-<h1 align="left">Hey 👋</h1>
-I'm Mya a trained Web developer and experinced Quality assurance engineer from London I'm currently based in the Caribbean and have a company called Coex LTD where we bring your ideas ALIVE!
+<h1 align="left">Hey👋 Let's Connect‼️</h1>
+I'm Mya a trained Web developer and experinced Quality assurance engineer from London🇬🇧 I'm currently based in the Caribbean🏝️ and have a company called Coex LTD where we bring your ideas ALIVE!
 
 ###
 
